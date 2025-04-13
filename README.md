@@ -2,6 +2,10 @@
 
 - ethereum：https://ethereum.org/en/developers/docs/
   - https://takenobu-hs.github.io/downloads/ethereum_evm_illustrated.pdf
+  - https://ethereum.github.io/yellowpaper/paper.pdf
+  - https://jellopaper.org/evm/
+  - https://www.evm.codes/
+  - https://etherscan.io/gastracker
 - solidity：https://soliditylang.org/
 
 ## 基础概念
@@ -28,6 +32,7 @@
 ## 参考文档
 
 - https://guide.pseudoyu.com/zh/docs/study_path/
+- https://vitalik.eth.limo/general/2022/02/28/complexity.html
 
 ## TODO
 
